@@ -1,0 +1,14 @@
+{
+  "name": "polymer-play",
+  "version": "0.0.1",
+  "dependencies": {
+    "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
+    "iron-dropdown": "PolymerElements/iron-dropdown#^1.0.0",
+    "iron-form": "PolymerElements/iron-form#^1.0.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^1.0.0",
+    "iron-image": "PolymerElements/iron-image#^1.0.0",
+    "iron-list": "PolymerElements/iron-list#^1.0.0",
+    "iron-localstorage": "PolymerElements/iron-localstorage#^1.0.0"
+  }
+}
